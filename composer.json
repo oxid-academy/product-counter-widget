@@ -1,0 +1,28 @@
+
+{
+    "name": "oxid-academy/product-counter-widget",
+    "description": "Displays a banner in the header area showing the number of available products.",
+    "type": "oxideshop-module",
+    "homepage": "https://oxid-esales.com",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "OXID Academy",
+            "email": "academy@oxid-esales.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4",
+        "oxid-academy/product-counter-service": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "OxidAcademy\\ProductCounterWidget\\": "../../../source/modules/oxac/product-counter-widget"
+        }
+    },
+    "extra": {
+        "oxideshop": {
+          "target-directory": "oxac/product-counter-widget"
+        }
+    }
+}
