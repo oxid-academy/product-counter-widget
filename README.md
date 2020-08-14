@@ -1,4 +1,4 @@
-# OXID Academy Product Counter Service
+# OXID Academy Product Counter Widget
 **This Package is part of the OXID Academy Development Basic Training.**
 
 ## Installation
