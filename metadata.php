@@ -19,7 +19,7 @@ $aModule = [
         'en' => 'Displays a banner in the header area showing the number of available products.',
     ],
     'thumbnail'   => '',
-    'version'     => '1.0.0',
+    'version'     => '1.1.0',
     'author'      => 'OXID Academy',
     'url'         => 'https://www.oxid-esales.com/',
     'email'       => 'academy@oxid-esales.com',
