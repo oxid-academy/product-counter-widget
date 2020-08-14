@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0] - 2020-08-14
+### Removed
+- `productcounter.tpl` greeting option.
+
 ## [1.0.0] - 2020-08-14
 ### Added
 - `ProductCounterController` widget controller, that assigns the number of products to a template variable and renders the template.
