@@ -35,5 +35,13 @@ $aModule = [
     ],
     'templates' => [
         'productcounter.tpl' => 'oxac/product-counter-widget/views/tpl/widget/productcounter.tpl'
-    ]
+    ],
+    'settings' => [
+        [
+            'group' => 'oxacproductcountermodule_greeting',
+            'name' => 'oxacproductcountermodule_greetingactive',
+            'type' => 'bool',
+            'value' => false,
+        ],
+    ],
 ];
