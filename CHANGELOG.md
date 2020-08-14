@@ -6,5 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.0.0] - 2020-08-DD
+## [1.0.0] - 2020-08-14
 ### Added
+- `ProductCounterController` widget controller, that assigns the number of products to a template variable and renders the template.
+- `productcounter.tpl` presentation of the banner added to the eShop header area.
+- `layout_header_bottom.tpl` embeds the widget into the existing view.
