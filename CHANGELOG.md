@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.1] - 2022-02-14
+### Changed
+- `composer.json` increased the PHP version to 8.0.
+
 ## [1.1.0] - 2020-08-14
 ### Removed
 - `productcounter.tpl` greeting option.
