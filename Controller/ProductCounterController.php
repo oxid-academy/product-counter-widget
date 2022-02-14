@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types = 1);
+
 namespace OxidAcademy\ProductCounterWidget\Controller;
 
 use OxidAcademy\ProductCounterService\Counter;
