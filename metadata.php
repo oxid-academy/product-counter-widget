@@ -11,8 +11,8 @@ $sMetadataVersion = '2.1';
 $aModule = [
     'id'          => 'oxacproductcounterwidget',
     'title'       => [
-        'de' => 'OXAC Produkt Counter Widget',
-        'en' => 'OXAC Product Counter Widget',
+        'de' => 'OXID Academy :: Produkt Counter Widget',
+        'en' => 'OXID Academy :: Product Counter Widget',
     ],
     'description' => [
         'de' => 'Zeigt einen Banner im Header-Bereich an mit der Anzahl der verfügbare Produkten.',
