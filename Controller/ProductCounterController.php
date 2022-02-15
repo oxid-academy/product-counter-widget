@@ -35,6 +35,6 @@ class ProductCounterController extends WidgetController
         $container = $containerFactory->getContainer();
         $counterService = $container->get(Counter::class);
 
-        return $counterService->count();
+        return (int) $counterService->count();
     }
 }

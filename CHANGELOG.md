@@ -10,7 +10,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - `metadata.php` increased the version number and changed the modules title.
 - `composer.json` increased the PHP version to 8.0.
-- `ProductCounterController`added strict type mode.
+- `ProductCounterController`
+  - Added strict type mode.
+  - Ensured to return an integer due to strict mode.
 
 ## [1.1.0] - 2020-08-14
 ### Removed
